@@ -56,7 +56,7 @@ def get_prediction(img, threshold):
 
 
 # Open the video file
-cap = cv2.VideoCapture(r"C:\Users\Kashir\Desktop\Car_Video.mp4")
+cap = cv2.VideoCapture(r"C:\Users\Kashir\Desktop\Side_Projects\Cars_2.mp4")
 
 # Process each frame in the video
 while (cap.isOpened()):
